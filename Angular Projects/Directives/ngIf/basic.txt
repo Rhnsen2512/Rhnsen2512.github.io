@@ -1,1 +1,3 @@
-ngIf directive
+ngIf directive to show texts (here) conditionally
+ngIf is a structural directive and hence the * mark added in front of it
+Structural directivce changes the structure of the DOM.
