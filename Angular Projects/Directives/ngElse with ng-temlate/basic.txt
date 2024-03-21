@@ -1,0 +1,1 @@
+Here we show a nice alternative to ngIf by using ng-template and a local reference marker(#noServer here) on it.
