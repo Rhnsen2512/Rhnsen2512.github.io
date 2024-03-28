@@ -1,0 +1,1 @@
+ngClass  adds a CSS class only if a certain condition is met
