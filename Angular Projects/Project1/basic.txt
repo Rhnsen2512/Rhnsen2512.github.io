@@ -1,0 +1,5 @@
+1.Add a button which says "Display Details"
+2.Add a paragraph with any content of your choice(Eg: 'Secret Password=tuna')
+3.Toggle the displaying of this paragraph with the click of the button created in the 1st step
+4.Log all button clicks in an array and output that array below the paragraph(maybe log simply an incrementing number)
+5.Starting at the 5th log item, give all the future log items a blue background color and a white (text) color
