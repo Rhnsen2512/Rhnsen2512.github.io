@@ -1,0 +1,1 @@
+Now we create another method in the same controller i.e HelloWorldController named helloWorldBean() which now returns an instance/object of a bean  named HelloWorldBean and the response gets converted automaticallt to JSON on Browser output 
