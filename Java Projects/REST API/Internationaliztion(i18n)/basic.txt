@@ -1,0 +1,1 @@
+Internationalization of REST API based on Accept-Language Header
