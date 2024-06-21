@@ -1,0 +1,1 @@
+Here We have created a Course Bean and a Repository class and a CommandLineRunner class for it.
